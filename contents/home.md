@@ -12,7 +12,7 @@ I'm currently pursuing a Master's degree in Control Science and Engineering
 #### Education  
  
 **Beijing University of Posts and Telecommunication**, Master of Control Science and Engineering (2024.9 – 2027.6 (excepted))
-• GPA: XX/4.0  
+• GPA: 3.7/4.0  
 
 **Hebei University of Technology**, Bachelor of Automation (2020.9 – 2024.6)  
 • GPA: 3.67/4.0 
