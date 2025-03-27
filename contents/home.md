@@ -1,20 +1,19 @@
 [![XX](https://img.shields.io/badge/XX-github-blue?logo=github)](https://github.com/XX)
 
-I'm currently pursuing a Master's degree in XX at the Department of XX, XX University, XX.
+I'm currently pursuing a Master's degree in Control Science and Engineering
+ at the School of Intelligent and Automation, Beijing University of Posts and Telecommunication, China.
 
 #### Email  
-<code>XX@XX.XX</code>  
-<code>XX@XX.XX</code>
+<code>youyehao@bupt.edu.cn</code>  
+<code>yyh1229581280@163.com</code>
 
 #### Education  
-**XX University**, Master of XX (XX – XX)  
+ 
+**Beijing University of Posts and Telecommunication**, Master of Control Science and Engineering (2024.9 – 2027.6 (excepted))
 • GPA: XX/XX  
 
-**XX University**, Exchange student <br>  
-• As a XX, represented my college as an outstanding student for a XX exchange program.  
-
-**XX University**, Honours Bachelor of XX (XX – XX)  
+**Hebei University of Technology**, Bachelor of Automation (2020.9 – 2024.6)  
 • GPA: XX/XX (top XX%)  
 
 #### Research Interests  
-XX, XX, XX, XX.
+Deep Reinforcement Learning, Optimal Control.
