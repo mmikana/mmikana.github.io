@@ -19,4 +19,4 @@ I'm currently pursuing a Master's degree in Control Science and Engineering
 
 
 #### Research Interests  
-Deep Reinforcement Learning, Optimal Control.
+Deep Reinforcement Learning, Quadrotor, Optimal Control.
