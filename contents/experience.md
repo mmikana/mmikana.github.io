@@ -16,3 +16,6 @@ Intelligent logistics handling is an integrated engineering project, mainly divi
 
 #### 主要贡献:  
 - 本人主要负责机械设计、电路设计、拼装、场地搭建过程，借此机会学习了PCB设计和识别相关内容，积累了工程实践能力；本次比赛选择的MUC为Arduino的Mega 2560，优点是引脚足够，54路数字输入输出，包含15路模拟输入，4路UART接口(用于机械臂、OpenMV、串口屏、陀螺仪的通信)，16MHz晶体振荡器等。
+
+#### 比赛视频：
+- https://www.bilibili.com/video/BV15WUnBMErN/?vd_source=8d5e54a4ac60ef713b64544ec3151ea7
